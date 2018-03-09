@@ -1,0 +1,6 @@
+F:\LuisEnd\LuisEnd\bin\Debug\LuisEnd.exe.config
+F:\LuisEnd\LuisEnd\bin\Debug\LuisEnd.exe
+F:\LuisEnd\LuisEnd\bin\Debug\LuisEnd.pdb
+F:\LuisEnd\LuisEnd\obj\Debug\LuisEnd.csprojResolveAssemblyReference.cache
+F:\LuisEnd\LuisEnd\obj\Debug\LuisEnd.exe
+F:\LuisEnd\LuisEnd\obj\Debug\LuisEnd.pdb
